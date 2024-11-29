@@ -166,7 +166,7 @@ setTimeout(() => {
             const allAllowedNumbers = superUserNumbers.concat(sudo);
             const superUser = allAllowedNumbers.includes(auteurMessage);
             
-            var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
+            var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) +2349162795299"@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
             console.log("\t [][]...{Zokou-Md}...[][]");
             console.log("=========== Nouveau message ===========");
@@ -456,7 +456,7 @@ function mybotpic() {
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
                                         pack: 'Zoou-Md',
-                                        author: conf.OWNER_NAME,
+                                        author: conf.Stephen,
                                         type: StickerTypes.FULL,
                                         categories: ['🤩', '🎉'],
                                         id: '12345',
@@ -554,7 +554,7 @@ function mybotpic() {
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
                 pack: 'Zoou-Md',
-                author: conf.OWNER_NAME,
+                author: conf.Stephen,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
                 id: '12345',
