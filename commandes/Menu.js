@@ -35,19 +35,19 @@ const date = moment().format('DD/MM/YYYY');
 ╭─────────────────☉
 │▫️╭─────────────☉
 │  │ *Stevo Graphics*
-│▫️│*BOT-OWNER* : ${s.OWNER_NAME}
-│▫️│*Date* : ${date}
+│▫️│*BOT-OWNER* : ${s.StevoGraphics}
+│▫️│*Date* : ${30/11/2024}
 │▫️│*PREFIX* : ${s.PREFIXE}
 │▫️│*WORKTYPE* : ${mode}
 │▫️│*CMDs* : ${cm.length} 
 │▫️│*STORAGE* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │▫️│*RUNNING ON* : ${os.platform()}
-│▫️│*THEME* : *Gojou-MD*
+│▫️│*THEME* : *Stevo*
 │▫️╰──────────────☉
 ╰──────────────────☉
 ╭───────────────☉
- ☉〘 Gojou-MD 〙☉
- ☉by David Cyril☉
+ ☉〘 Stevo 〙☉
+ ☉by Stephen Adediran☉
 ╰───────────────☉\n`;
     
 let menuMsg = `
