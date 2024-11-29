@@ -1,5 +1,5 @@
 {
-  "name": "Gojou-MD",
+  "name": "Stevo",
   "version": "1",
   "description": "",
   "main": "index.js",
@@ -20,7 +20,7 @@
     "DeeCeeXxx",
     "Gojou-MD"
   ],
-  "author": "David Cyril",
+  "author": "Stevo bot",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
